@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Cristian Pessanha 🖐️
 
 🎓 Análise e Desenvolvimento de Sistemas - Unopar <br>
-<!--✏️📚 Pós-graduando Desenvolvimento Full Stack - PUCRS-->
+✏️📚 Pós-graduando Desenvolvimento Full Stack - PUCRS
 
 Em Busca de uma oportunidade para desenvolver e melhorar meus conhecimentos, e também algo que possa me instruir de forma crescente e contínua, visando sempre o crescimento da empresa, e também o meu crescimento Profissional.
 
