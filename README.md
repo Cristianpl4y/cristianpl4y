@@ -1,4 +1,4 @@
-### Olá! Eu sou o Cristian Pessanha 🖐️
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá! Eu sou o Cristian Pessanha 
 
 🎓 Análise e Desenvolvimento de Sistemas - Unopar <br>
 ✏️📚 Pós-graduando Desenvolvimento Full Stack - PUCRS
